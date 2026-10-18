@@ -79,6 +79,10 @@ int main()
         cout<<"enetr the keys";
         cin>>A[i];
     }
-    sort(A,A+n)
-    
+    sort(A,A+n);
+    for(i = 0 ; i < n ; i++)
+    {
+        cout<<A[i]<<" ";
+    }
+
 }
