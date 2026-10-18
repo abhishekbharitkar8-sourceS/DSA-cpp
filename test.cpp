@@ -18,7 +18,7 @@ void linsearch(int n, int A[])
                 break;
             }
         }
-        if (found)
+        if (found ==0)
             cout << "Key found at position " << i + 1 << endl;
         else
             cout << "Key not found" << endl;
