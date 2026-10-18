@@ -76,6 +76,7 @@ int main()
     cin >> n;
     for(i = 0 ; i , n ; i++)
     {
-        cout<<enetr the keys";
+        cout<<"enetr the keys";
+        cin>>A[i];
     }
 }
