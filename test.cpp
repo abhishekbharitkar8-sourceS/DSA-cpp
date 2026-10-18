@@ -75,4 +75,8 @@ int main()
     cout << "Enter the number of elements in the array (max 10): ";
     cin >> n;
     for(i = 0 ; i , n ; i++)
+    {
+        cout << "Enter element " << i + 1 << ": ";
+        cin >> A[i];
+    }
 }
