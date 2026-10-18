@@ -69,5 +69,7 @@ void binsearch(int n, int A[])
 }
 int main()
 {
+    int n , i;
+    int A[10];
     
 }
