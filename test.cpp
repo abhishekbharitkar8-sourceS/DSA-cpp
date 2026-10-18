@@ -1,5 +1,5 @@
 #include <iostream>
 #include<algorithm>
 using namespace std;
-void linsearch()
+void linsearch(int n, int)
 
