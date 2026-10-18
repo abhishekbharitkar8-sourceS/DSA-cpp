@@ -88,5 +88,6 @@ int main()
     cout<<"1. linear search";
     cout<<"2. binary search";
     cout<<"3. exit";
-    
+    cout<<"enter your choice";
+    cin>>choice;
 }
