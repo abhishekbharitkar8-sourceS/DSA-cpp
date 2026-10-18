@@ -90,4 +90,5 @@ int main()
     cout<<"3. exit";
     cout<<"enter your choice";
     cin>>choice;
+    if(choice)
 }
