@@ -87,5 +87,5 @@ int main()
     cout<<"menue";
     cout<<"1. linear search";
     cout<<"2. binary search";
-    cout<<3.
+    cout<<"3. exit';
 }
