@@ -90,5 +90,16 @@ int main()
     cout<<"3. exit";
     cout<<"enter your choice";
     cin>>choice;
-    if(choice)
+    if(choice == 1)
+    {
+        linsearch(n,A);
+    }
+    else if(choice == 2)
+    {
+        binsearch(n,A);
+    }
+    else
+    {
+        cout<<"exiting";
+    }
 }
