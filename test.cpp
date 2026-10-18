@@ -67,4 +67,7 @@ void binsearch(int n, int A[])
         cin>>choice;
     }while(choice == 'y');
 }
-int main
+int main()
+{
+    
+}
