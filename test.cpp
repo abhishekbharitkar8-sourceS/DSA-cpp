@@ -76,6 +76,6 @@ int main()
     cin >> n;
     for(i = 0 ; i , n ; i++)
     {
-        cout<<
+        cout<<enetr the keys";
     }
 }
