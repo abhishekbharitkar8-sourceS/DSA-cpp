@@ -79,7 +79,7 @@ int main()
     cin >> n;
     for(i = 0 ; i < n ; i++)
     {
-        cout<<"enetr the keys";
+        cout<<"Enter the key "<<i+1<<": ";
         cin>>A[i];
     }
     sort(A,A+n);
