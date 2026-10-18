@@ -84,5 +84,6 @@ int main()
     {
         cout<<A[i]<<" ";
     }
-    cout<<"menue"
+    cout<<"menue";
+    cout<<"1. linear search";
 }
