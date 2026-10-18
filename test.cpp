@@ -20,8 +20,9 @@ void linsearch(int n, int A[])
         }
         if (found ==0)
         {
-            
+            cout << "Key not found in the array." << endl;
         }
+       
         cout << "Number of comparisons made: " << comparisons << endl;
     }
 }
