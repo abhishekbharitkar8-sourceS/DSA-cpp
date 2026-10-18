@@ -73,4 +73,6 @@ int main()
     int A[10];
     int choice;
     cout << "Enter the number of elements in the array (max 10): ";
+    cin >> n;
+    for()
 }
