@@ -71,5 +71,6 @@ int main()
 {
     int n , i;
     int A[10];
-    
+    int choice;
+    cout << "Enter the number of elements in the array (max 10): ";
 }
