@@ -26,6 +26,7 @@ void linsearch(int n, int A[])
         cout << "Number of comparisons made: " << comparisons << endl;
         cout<<"Do you want to search for another key? (y/n): ";
         char choice;
-    }
+        cin>>choice;
+    }while (choice == 'y' || choice == 'Y');
 }
 
